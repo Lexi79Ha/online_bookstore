@@ -7,5 +7,5 @@
 <img src="book_data.png" alt="alt text" />
 <h2>Technologies and Tools</h2>
 <h3>Eventually this program will be use django as a user interface</h3>
-h3>The database will be written in postgres</h3>
+<h3>The database will be written in postgres</h3>
 <h3>The functions will be written in python</h3>
